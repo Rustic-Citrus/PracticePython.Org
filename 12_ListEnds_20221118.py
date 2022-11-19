@@ -8,7 +8,7 @@ def eviscerate_list(x):
     return x, y
 
 while repeat == True:
-    user_input = input('Type or paste a list in the format (x, y, z...), \
+    user_input = input('Type or paste a list in the format x, y, z..., \
 using commas to separate items: ')
     user_input, eviscerated_list = eviscerate_list(user_input)
     print(f'ORIGINAL LIST: {user_input}')

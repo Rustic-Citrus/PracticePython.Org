@@ -26,5 +26,3 @@ f.close()
 f = open('wikipedia_article.txt', 'r')
 print(f.read())
 f.close()
-
-

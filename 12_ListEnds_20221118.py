@@ -1,6 +1,8 @@
 repeat = True
 end = 'Ending program...'
 def eviscerate_list(x):
+    """Takes a string, converts it into a list of strings, then removes
+all items, except for the first and last."""
     y = []
     x = x.split(',')
     x = [i.strip() for i in x]

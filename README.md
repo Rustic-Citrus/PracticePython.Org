@@ -20,6 +20,7 @@ For more information about the exercises or to read the exercise prompts, please
 
 - Corrected 26_CheckTickTackToe_20221128_v01.py to 
 26_CheckTicTacToe_20221128_v01.py
+- hangman_ascii.py - Included a comment at the beginning of the file explaining the origin of the ASCII artwork.
 
 ### 2022-12-08
 

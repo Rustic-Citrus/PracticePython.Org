@@ -1,3 +1,9 @@
+# The original artwork here was made by one Manus O'Donnell, who published his 
+# work on https://ascii.co.uk/art/hangman. It has been slightly adjusted so 
+# that it appears correctly as output in the command prompt. I am unaware of 
+# any copyright restrictions regarding this work and, as far as I can tell, 
+# there is no information available on the website.
+
 lives = {
 0: '''
  ___________.._______

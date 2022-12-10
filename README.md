@@ -10,36 +10,23 @@ For more information about the exercises or to read the exercise prompts, please
 
 ## Changelog
 
-### 2022-11-27
+### 2022-12-10
 
 #### Added
 
-- Draw a Game Board solution
-- Guessing Game Two solution
+- Birthday Dictionaries solution
 
-### 2022-11-28
+#### Updated
 
-#### Added
+- Corrected 26_CheckTickTackToe_20221128_v01.py to 
+26_CheckTicTacToe_20221128_v01.py
 
-- Check Tic Tac Toe solution
-
-### 2022-11-29
+### 2022-12-08
 
 #### Added
 
-- Tic Tac Toe Draw solution
-
-### 2022-12-02
-
-#### Added 
-
-- Max of Three solution
-
-### 2022-12-03
-
-#### Added
-
-- Tic Tac Toe Game solution
+- hangman_ascii.py
+- Hangman solution
 
 ### 2022-12-07
 
@@ -49,20 +36,33 @@ For more information about the exercises or to read the exercise prompts, please
 - Pick Word solution
 - Guess Letters solution
 
-### 2022-12-08
+### 2022-12-03
 
 #### Added
 
-- hangman_ascii.py
-- Hangman solution
+- Tic Tac Toe Game solution
 
-### 2022-12-10
+### 2022-12-02
+
+#### Added 
+
+- Max of Three solution
+
+### 2022-11-29
 
 #### Added
 
-- Birthday Dictionaries solution
+- Tic Tac Toe Draw solution
 
-#### Updated
+### 2022-11-28
 
-- Corrected 26_CheckTicTacToe_20221128_v01.py to 
-26_CheckTicTacToe_20221128_v01.py
+#### Added
+
+- Check Tic Tac Toe solution
+
+### 2022-11-27
+
+#### Added
+
+- Draw a Game Board solution
+- Guessing Game Two solution

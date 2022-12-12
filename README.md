@@ -10,6 +10,18 @@ For more information about the exercises or to read the exercise prompts, please
 
 ## Changelog
 
+### 2022-12-12
+
+#### Added
+
+- birthdays.json
+- 34_BirthdayJSON_20221211_v02.py
+
+#### Fixed
+
+- Renamed '33_BirthdayDictionaries_20221210.py' to '33_BirthdayDictionaries_20221210_v01.py'
+- Renamed '34_BirthdayJSON_20221211.py' to '34_BirthdayJSON_20221211_v01.py'
+
 ### 2022-12-11
 
 #### Added

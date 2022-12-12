@@ -10,13 +10,20 @@ For more information about the exercises or to read the exercise prompts, please
 
 ## Changelog
 
+### 2022-12-11
+
+#### Added
+
+- Birthday JSON solution
+- universities_ranking.json
+
 ### 2022-12-10
 
 #### Added
 
 - Birthday Dictionaries solution
 
-#### Updated
+#### Fixed
 
 - Corrected 26_CheckTickTackToe_20221128_v01.py to 
 26_CheckTicTacToe_20221128_v01.py
@@ -60,6 +67,11 @@ For more information about the exercises or to read the exercise prompts, please
 #### Added
 
 - Check Tic Tac Toe solution
+
+#### Fixed
+
+- Renamed the files using the naming convention 
+'ProblemNumber_ProblemName_CreationDate_Version.py' for better clarity.
 
 ### 2022-11-27
 

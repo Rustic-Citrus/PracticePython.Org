@@ -10,6 +10,12 @@ For more information about the exercises or to read the exercise prompts, please
 
 ## Changelog
 
+### 2022-12-15
+
+#### Added
+
+- 35_BirthdayMonths_20221213_v01.py
+
 ### 2022-12-12
 
 #### Added

@@ -10,6 +10,19 @@ For more information about the exercises or to read the exercise prompts, please
 
 ## Changelog
 
+### 2022-12-18
+
+#### Added
+
+- 36_BirthdayPlots_20221216_v01.py
+- 37_FunctionsRefactor_20221218_v01.py
+- birthday_plots.html
+- birthday_months.json
+
+#### Fixed
+
+- 35_BirthdayMonths_20221213_v01.py now dumps counter object to birthday_months.json
+
 ### 2022-12-15
 
 #### Added

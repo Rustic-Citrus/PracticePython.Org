@@ -29,4 +29,5 @@ for m, n in birthdays.items():
     birthdays[m] = monthnumbertostring(int(n[5:7]))
 
 c = Counter(birthdays.values())
-print(c)
+with open("birthdays_months.json", "w") as f:
+    json.dump(c, f)

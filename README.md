@@ -10,12 +10,19 @@ For more information about the exercises or to read the exercise prompts, please
 
 ## Changelog
 
+### 2022-12-21
+
+#### Added
+
+- f-Strings solution
+- Character Input Datetime solution
+
 ### 2022-12-18
 
 #### Added
 
-- 36_BirthdayPlots_20221216_v01.py
-- 37_FunctionsRefactor_20221218_v01.py
+- Birthday Plots solution
+- Functions Refactor solution
 - birthday_plots.html
 - birthday_months.json
 
@@ -27,14 +34,14 @@ For more information about the exercises or to read the exercise prompts, please
 
 #### Added
 
-- 35_BirthdayMonths_20221213_v01.py
+- Birthday Months solution
 
 ### 2022-12-12
 
 #### Added
 
 - birthdays.json
-- 34_BirthdayJSON_20221211_v02.py
+- Birthday JSON solution version 2
 
 #### Fixed
 
@@ -45,7 +52,7 @@ For more information about the exercises or to read the exercise prompts, please
 
 #### Added
 
-- Birthday JSON solution
+- Birthday JSON solution version 1
 - universities_ranking.json
 
 ### 2022-12-10

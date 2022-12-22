@@ -16,6 +16,7 @@ For more information about the exercises or to read the exercise prompts, please
 
 - f-Strings solution
 - Character Input Datetime solution
+- Error Checking solution
 
 ### 2022-12-18
 
